@@ -60,12 +60,12 @@ Resource: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
 Research and define the following terms to the best of your ability.
 
-1. Component: i
+1. Component: Components are specific types of function that can contain that takes in javascript commands and output them into a browser
 
-2. Spread operator:
+2. Spread operator: The spread operator allows you to expand arrays and objects into multiple elements
 
-3. React state:
+3. React state: state is a built in component in react. The state object is where property values are stored
 
-4. React props:
+4. React props: Properties give us the ability to communicate between components by passing information 
 
-5. DOM events:
+5. DOM events: DOM events allows javascript to add event listener or event handlers to HTML
