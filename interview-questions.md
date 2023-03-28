@@ -8,11 +8,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is the difference between a parameter and an argument?
 
-Your answer: The parameter is the place holder inside of the parenthesis. The argument is the actual content within the parameter
+Your answer: The parameter is the place holder and the argument is the actual value passed to the function.
 
-Researched answer: A parameter is a place holder variable that is defined inside the parenthesis of the function expression. Once it is defined in the parenthesis, it can be leveeraged anywhere in the function logic.
-
-An argument is the actual content passed to the function inside the parenthesis of the function invocation. The argument value must be a data type recongized by javascript.
+Researched answer: The parameter is the place holder inside of the parenthesis. The argument is the actual content passed to the function
 
 Resource: Syllabus notes
 
@@ -20,7 +18,7 @@ Resource: Syllabus notes
 
 Your answer:The .map method can take in the following predefined parameters: value, index, and array. The value parameter is required while the other two are optional.
 
-Researched answer:The .map method has three built-in parameters: the current value, the index, and the array the higher-order function is called on.The higher-order functions have to take at least one argument (value) but can take two or three if needed.
+Researched answer:The .map method has three parameters: value, index, and the array. The value parameter is what is necessary while the others are optional.
 
 Resouce: Syllabus notes
 
@@ -28,7 +26,7 @@ Resouce: Syllabus notes
 
 Your answer: Map will run through the entire array and return a new array with the same length. A filter will filter out specific information and return a new array of a different length.
 
-Researched answer: Map will iterate through an array and return a new array of the same length. Filter will iterate through an array and return a new array with only the values that satisfy the stated condition.
+Researched answer: Map will go through the entire array and return an array of the same length. Fliter will return a new array of a different length based on what information was requested.
 
 Resouce: Syllabus notes
 
@@ -36,7 +34,7 @@ Resouce: Syllabus notes
 
 Your answer: Iteration is a process of repeating an action until a particular goal is met.
 
-Researched answer: Iteration is the process of performing a particular action a certain number of times or until a condition is met. 
+Researched answer: Iteration is the process of performing a particular action over and over until a desired outcome is met. 
 
 Resource: Syllabus notes
 
@@ -44,7 +42,7 @@ Resource: Syllabus notes
 
 Your answer: A function is a set of instructions that perform a task. A method also is a set of instructions but for specific piece of information 
 
-Researched answer: A function is a block of code written to perform some specific set of tasks. A method is a property of an object that contains a function definition.
+Researched answer: A function is a block of code written to do something specific. A method is apart of an object that will perform something specific with that particular object. 
 
 Resource: https://www.geeksforgeeks.org/difference-between-methods-and-functions-in-javascript/
 
@@ -60,7 +58,7 @@ Resource: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
 Research and define the following terms to the best of your ability.
 
-1. Component: Components are specific types of function that can contain that takes in javascript commands and output them into a browser
+1. Component: Components are specific types of function that takes in javascript commands and output them into a browser
 
 2. Spread operator: The spread operator allows you to expand arrays and objects into multiple elements
 
